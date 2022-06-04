@@ -1,0 +1,68 @@
+.header{
+  background-image: url(../img/4652b29f-c7d9-496c-8b49-fc8f16d29457.jpg);
+  text-align: center;
+  background-size: contain;
+} 
+
+.body{
+  background-image: url(../img/back.png);
+  background-repeat: repeat;
+  background-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+
+.main {
+  font-family: Arial, Helvetica, sans-serif;
+  column-count: 2;
+  text-align: left;
+  padding-top: 20px; 
+  padding: 40px;
+  column-count: 2;
+  position:relative;
+}
+
+.titulo {
+  text-align: center;
+  color:antiquewhite;
+  position:relative;
+  top:100px;
+  text-align: center;
+  font-size: 35px;
+}
+
+
+.fotomia{
+  width: 180px;
+  padding: 40px;
+  padding-top: 20px; 
+  padding: 40px;
+}
+
+
+
+.h2{
+  color: darkslategrey;
+}
+.h3{
+  color: darkslategrey;
+}
+.instagram{
+  position: relative;
+  text-align: center;
+  left: 52%; 
+}
+.linkedin{
+  position: relative;
+  left: 48%;
+  text-align: center;
+}
+
+.box{
+  width: 480px;
+  height: 150px;
+}
+
+.columna1{
+  height: 100%;
+}
